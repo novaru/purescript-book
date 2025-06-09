@@ -1,13 +1,20 @@
 package:
   dependencies:
+  - arrays
+  - canvas
   - console
   - effect
   - foldable-traversable
   - integers
-  - lists
+  - maybe
   - numbers
+  - partial
   - prelude
-  - test-unit
+  - random
+  - refs
+  - web-dom
+  - web-events
+  - web-html
   name: my-project
 workspace:
   extra_packages: {}

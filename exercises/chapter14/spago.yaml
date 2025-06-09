@@ -1,13 +1,14 @@
 package:
   dependencies:
+  - arrays
   - console
   - effect
   - foldable-traversable
-  - integers
-  - lists
-  - numbers
+  - free
+  - maybe
   - prelude
-  - test-unit
+  - strings
+  - transformers
   name: my-project
 workspace:
   extra_packages: {}

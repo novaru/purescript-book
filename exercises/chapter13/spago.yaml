@@ -1,13 +1,13 @@
 package:
   dependencies:
+  - arrays
   - console
   - effect
   - foldable-traversable
-  - integers
+  - functions
   - lists
-  - numbers
   - prelude
-  - test-unit
+  - quickcheck
   name: my-project
 workspace:
   extra_packages: {}

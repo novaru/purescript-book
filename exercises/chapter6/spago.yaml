@@ -1,13 +1,18 @@
 package:
   dependencies:
+  - arrays
   - console
   - effect
+  - either
   - foldable-traversable
-  - integers
   - lists
-  - numbers
+  - maybe
+  - newtype
+  - partial
   - prelude
+  - strings
   - test-unit
+  - tuples
   name: my-project
 workspace:
   extra_packages: {}

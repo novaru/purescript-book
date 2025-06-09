@@ -1,12 +1,24 @@
 package:
   dependencies:
+  - aff
+  - affjax
+  - affjax-node
+  - arrays
+  - bifunctors
   - console
   - effect
+  - either
+  - exceptions
   - foldable-traversable
-  - integers
-  - lists
-  - numbers
+  - functions
+  - maybe
+  - node-buffer
+  - node-fs-aff
+  - node-path
+  - ordered-collections
+  - parallel
   - prelude
+  - strings
   - test-unit
   name: my-project
 workspace:

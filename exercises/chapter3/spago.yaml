@@ -1,11 +1,10 @@
 package:
   dependencies:
   - console
+  - control
   - effect
-  - foldable-traversable
-  - integers
   - lists
-  - numbers
+  - maybe
   - prelude
   - test-unit
   name: my-project
